@@ -1,4 +1,4 @@
-Project Overview:-
+Project Overview:
 
 This project is a front-end application developed using Lightning Web Components (LWC). It implements a basic quiz that allows users to answer a set of predefined questions and receive immediate feedback on their performance.
 
